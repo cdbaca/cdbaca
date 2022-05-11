@@ -4,7 +4,7 @@ I'm a Blackboard Administrator and aspiring Python and SQL developer.
 
 ## My primary languages are 
 - **Python**, which I have used for:
-1. scripting tasks in Blackboard
+1. scripting tasks in Blackboard ([see my bb_assignments repo](https://github.com/cdbaca/bb_assignments))
 2. small web development projects (currently working on a custom static site generator)
 3. automating solutions in the workplace
 - **PostgreSQL**, which I have used to:
